@@ -3,7 +3,7 @@
       implicit none
       integer :: i,j,k,l,m
       !
-      integer,parameter :: NX=300,NY=300,NZ=60
+      integer,parameter :: NX=200,NY=200,NZ=30
       integer, parameter :: dx = 1000,dy = 1000, dz = 250
       real, parameter :: rlatd = 22.25, rlond = 119.75
       real, parameter :: lon_l = 118.29151, lat_l = 20.900108
